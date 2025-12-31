@@ -1,4 +1,4 @@
-# Site de Gerenciamento de Filmes
+# Sistema Portal do Aluno
 
 Este projeto é uma aplicação desktop desenvolvida em Java, voltada para o cadastro e listagem de alunos, utilizando Java Swing para a interface gráfica e organização baseada no padrão MVC.
 O projeto foi estruturado utilizando o NetBeans, sendo indicado para fins educacionais e acadêmicos.
